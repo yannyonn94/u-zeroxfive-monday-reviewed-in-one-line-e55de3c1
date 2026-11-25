@@ -1,6 +1,6 @@
-# Monday, Reviewed in One Line
+**Concept: a one-star review of Monday itself — "One star. Monday opened with a 7am 'quick sync', 212 unread emails, and a train delay that outlasted my patience. Would not recommend." The joke borrows the voice of a scathing product review and aims it at the day: three concrete Monday details (the dawn meeting, the unread inbox, the late train) stacked into a deadpan verdict a coworker would repeat the next morning.**
 
-**Concept:** a one-star review of Monday itself — "One star. Monday opened with a 7am 'quick sync', 212 unread emails, and a train delay that outlasted my patience. Would not recommend." The joke borrows the voice of a scathing product review and aims it at the day: three concrete Monday details (the dawn meeting, the unread inbox, the late train) stacked into a deadpan verdict a coworker would repeat the next morning.
+# Monday, Reviewed in One Line
 
 [![make.fun · u-zeroxfive-monday-reviewed-in-one-line-e55de3c1](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
 [![rank](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/yannyonn94/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/rank.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/leaderboard)
